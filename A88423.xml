@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of a bad market: or, Knaves and fools foully foyled, and fallen into a pit of their own digging: wherein their late errors are lamentingly laid down by one of the brethren of that function. Snatcht from their convention table, and published to the end, that against the next time the people shall be either so mad or foolish to believe them, or trust them, they may learn more wit, and proceed more gradually, and not so much to Phaetonize.</title>
+            <author>One of the brethren of that function.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88423</idno>
+            <idno type="STC">Wing L281</idno>
+            <idno type="STC">Thomason E1017_26</idno>
+            <idno type="STC">ESTC R4666</idno>
+            <idno type="EEBO-CITATION">99872711</idno>
+            <idno type="PROQUEST">99872711</idno>
+            <idno type="VID">168827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88423)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168827)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of a bad market: or, Knaves and fools foully foyled, and fallen into a pit of their own digging: wherein their late errors are lamentingly laid down by one of the brethren of that function. Snatcht from their convention table, and published to the end, that against the next time the people shall be either so mad or foolish to believe them, or trust them, they may learn more wit, and proceed more gradually, and not so much to Phaetonize.</title>
+                  <author>One of the brethren of that function.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed at the charge of John Lambert, Charles Fleetwood, Arthur Hesilrig, and  ̲̲̲̲Hewson the Cobler, and are to be distributed to the fainting brethren,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 21 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproductions of the originals in the Huntington Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Fleetwood, Charles, d. 1692 --  Early works to 1800.</term>
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168827:1" rendition="simple:additions"/>
+            <p>THE LAMENTATION OF A Bad Market:</p>
+            <p>OR, <hi>Knaves</hi> and <hi>Fools</hi> foully foyled, and fallen into a pit of their own digging: Wherein their late Errors are lamentingly laid down by one of the Brethren of that Function.</p>
+            <p>Snatcht from their <hi>Convention Table,</hi> AND Publiſhed to the end, that againſt the next time the People ſhall be either ſo Mad or Fooliſh to believe them, or truſt them, they may learn more wit, and proceed more gradually, and not ſo much to <hi>Phaetonize.</hi>
+            </p>
+            <q>When Thieves fall out, honeſt Men come by their Goods again.</q>
+            <p>
+               <hi>London,</hi> Printed at the Charge of <hi>John Lambert, Charles Fleetwood, Arthur Heſilrig,</hi> and <hi>— Hewſon</hi> the Cobler, and are to be diſtributed to the fainting Brethren. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168827:2"/>
+            <pb n="3" facs="tcp:168827:2"/>
+            <head>THE LAMENTATION OF A Bad Market.</head>
+            <opener>
+               <salute>Friends and Brethren,</salute>
+            </opener>
+            <p>THe cauſe of this Convention of the Saints, is to condole and lament our great and mani<g ref="char:EOLhyphen"/>fold Loſſes and Croſſes have beſet us, and compaſſed us round about, to the utter over<g ref="char:EOLhyphen"/>throw of our great and glorious Cauſe, and our ſelves and Honours like wiſe. This day not to be ob<g ref="char:EOLhyphen"/>ſerved as hitherto have been, for Victories and Triumphs over our Enemies, but to be kept as a ſolemn day of Expoſtula<g ref="char:EOLhyphen"/>tion, wherein we muſt with grief, and ſighs, and ſobs, and bitterneſs of ſpirit, round up our Maſter for his perfidious leaving of us, and dealings toward us. Why ſhould he thus reward his Saints with evil for good? We that have ſought the advancement of his Kingdom both night and day, by Plots, Devices, Stratagems, Fire, Ruines, Blood, all that ei<g ref="char:EOLhyphen"/>ther we, or he himſelf to help us, could invent; and that yet he ſhould forſakes us, cuts our very hearts, ſo that ſcarcely for anguiſh of ſpirit ſhall we be able to look him in the face.</p>
+            <p>Let us ſee and examine our ſelves, what we think may be the reaſons of his late withdrawing from us, and his cancel<g ref="char:EOLhyphen"/>ling of our Commiſſions in ſuch ſtrange and unexpected man<g ref="char:EOLhyphen"/>ner;
+<pb n="4" facs="tcp:168827:3"/>
+Was it becauſe we proceeded too raſhly in the Rule and Governing of his Kingdoms, and flocked too thronging<g ref="char:EOLhyphen"/>ly to the Throne of Dignity, thereby to ſhorten, not prolong his Reign on Earth? or for that we have been too mindful of private Intereſt? or what ſhould be the reaſons of his thus, ſclipſing our <hi>Grandeur,</hi> think ye, my Brethren? Oh <hi>Lucifer! Lucifer</hi>! why haſt thou forſaken us, and left thine own people in the day of Adverſity? Why wilt thou not continue thy wonted goodneſs to thy choſen ones? but ſuffer them thus to be trodden under, and inſulted over by the Ene<g ref="char:EOLhyphen"/>mies of both thy, Cauſe and ours, by both thy Enemies and our Enemies? Thou canſt not ſay thou haſt ever found us un<g ref="char:EOLhyphen"/>faithful to thee in our Calling and Imployments; and where<g ref="char:EOLhyphen"/>fore then haſt not thou protected us, and taken away that black vail which hath covered our eyes, but ſuffered us thus to be beſotted and beguiled? Well, ſeeing it is thus, we are re<g ref="char:EOLhyphen"/>ſolved to be angry with thee; and if we were but certain of making our eſcapes out of that Gin, Net and Trap thou haſt caught us in, we could almoſt abandon thy Banners, under which we have thus long fought. Why haſt thou thus painted and beſpotted the immaculate Garments and White Robes of thine Elect with the duſt of the earth?</p>
+            <p>Oh Brethren! that we had but had the policy of the Monks, then ſhould not we have been reduced to that low ebbe which now we are. Friends, ſeeing we have begun, let us ſearch our ſelves to the bottom, and recount what we were in the dayes of old: Were not we the deſpiſed of the Na<g ref="char:EOLhyphen"/>tion? Were not we contented with the meaneſt Cottages to cover our heads, the like Food to ſuſtain our ſelves, and the pooreſt Weeds to clothe our ſelves? In thoſe dayes we took no thought, neither were our heads buſied with National Oc<g ref="char:EOLhyphen"/>currances, the Secrets of Kingdoms, Kings and Princes, the acquaintance of Powers, and Exerciſe of Powers, Ruling and Dominion, Governments in Church and State? Our chiefeſt cover and buſineſs then were to get bread to ſeed our ſelves, and Clothes to cover our nakedneſs, and to become
+<pb n="5" facs="tcp:168827:3"/>
+the beſt Workmen in the ſeveral Trades and Occupations our Fathers gave us education in, as Thimble-makers, Razor<g ref="char:EOLhyphen"/>makers, Taylors, Coblers, Carpenters, Weavers, Brewers Pedlers, and ſuch like Vocations: Then were we happy, m friends, and lived in peace, ſucking Conſolation and Nouriſh<g ref="char:EOLhyphen"/>ment from the Pottage-pot, Beef and Bag-pudding. O that we had never known or been inſtructed in the Rudiments of Ambition, but had delighted in the Precepts of Content! O that our Maſter had never charmed us into an aſpiring vain, unleſs withall he had given us more ſober and politick heads, for the management of our Affairs of ſuch a vaſt Circumfe<g ref="char:EOLhyphen"/>rence! O what fools were we, that when we had mounted two or three ſteps, and with the fatning Coniolation of a ſute<g ref="char:EOLhyphen"/>able portion of Kings Lands, Queens, Biſhops, Deans and Chapters, and other Sequeſtred Lands and Eſtates, as were al<g ref="char:EOLhyphen"/>lotted unto us, we could not reſt contented there, but muſt ſtill be fluttering with our ambitious Wings at the Helm, and nothing will ſatisfie Coblers and Brewers, but Crowns and Scepters. We might have taken our Brother the <hi>Neapolitane Maſſionello</hi>'s Chance into our conſideration, which (it may be) if our ambitious eyes had not been dazled with the glit<g ref="char:EOLhyphen"/>tering hopes of Gold and Honour, but that we could have had a ſerious reflexion on the ſame, would have given ſome check to our haughtineſs, and a Rein to our furious current. But we (like <hi>Icarus)</hi> muſt mount, and ſtand in competition with the Sun, till that he melts the Wings of our Ambition like wax, and plunges our brazen faces into the deeps: Nothing but <hi>Phaetons</hi> requeſt will give ſatisfaction unto us, and I think we have ſeconded him indifferent wel, to our own ſorrow and deſtruction.</p>
+            <p>O that we had trodden the path that our good Maſter <hi>Oli<g ref="char:EOLhyphen"/>ver</hi> leſt behinde him! and that the <hi>Fleetwoods</hi> had not dealt ſo raſhly with his ſucceſſor in diſinthronizing him, and in time queſtionleſs we might have charmed him by the Spiritual con<g ref="char:EOLhyphen"/>verſations of <hi>Goodwyn, Sterrey</hi> and <hi>Peters,</hi> into a fit compo<g ref="char:EOLhyphen"/>ſure, and tempered conſtitution to have preſerved us in our
+<pb n="6" facs="tcp:168827:4"/>
+ſeveral mounted Stations, as his father had done before him. O that the Hopes of the <hi>Flee woods</hi> had not been ſo mighty, and the Ambition of the <hi>Lamberts</hi> ſo great! then, even in this day, might we have been wallowing in our far Livings, as the <hi>Sow walloweth in the mine;</hi> but now we cannot, with the <hi>Dog, return to his vomit.</hi> O that we had had b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſo much wit as to have avoided the long Treaties, tedious Meetings and Prolongations in the terrible ſeaſon which the politick <hi>Monck</hi> put upon us. Had we well noted that State-Aphoriſm <hi>(viz.) Delayes breed Danger,</hi> then had we not been in this drooping and low eſtate we are reduced unto. But we were confident in the arm of our ſtrength, and did not dread or fear the Ene<g ref="char:EOLhyphen"/>mies that were riſen up againſt us and our Cauſe: All the care we took was to provide bags to part the ſpoil of another Se<g ref="char:EOLhyphen"/>queſtration, but now our bags are rent from us.</p>
+            <p>How much would we now give, to have had then a ſpirit of fore-ſeeing and fore-knowing; then ſurely we ſhould, if not with victory, have come off with a complying <hi>Plaudite,</hi> and not with ſuch a hiſsing Reproach as is attributed unto us. Friends, to ſee how we have been fooled, is doleful and ſoul<g ref="char:EOLhyphen"/>cutting to rehearſe; for whilſt we ſtand ſcuſſling, fighting, ſtrugling, ſnarling and contemning for the Bone, the Owner watches his opportunity, and comes and ſnatcheth away the Meat from us. and leaves us to eat each other for hunger, and in a far worſe eſtate than at the beginning. Truly, friends, we are in a very ſad condition, and have brought our Hogs to a very fair Market, but have made but a ſoul price of them I'll aſſure you. Now the people have found out what we are, and what way all our actions bent their courſe, now that our Cauſe is quite ſplit, and our Honour laid in the duſt, our acts of Injuſtice laid open before them, they will ſtone us if we paſs along the ſtreets. We have received the Mark of the Beaſt in our foreheads, and the very Children will ſmell us out, even as the Cat doth the Mouſe, and hunt us up and down more than ever they did <hi>Marriot:</hi> So that to ſtay here, we dare not, for fear of the Judge who is at the door, and will
+<pb n="7" facs="tcp:168827:4"/>
+reward every one according to their ſeveral deeds, whether good or evil, for him or againſt him. And to fly into Foreign Nations, will be far worſe than to abide here; for there the veryſtones in the ſtreet will riſe up againſt, and accuſe ſuch vile Traytors as we, anp we ſhall be murthered like ſo many Dogs. Men and Brethren, what ſhall we do?—In my judgement, our onely way is to march under the ſeveral Ban<g ref="char:EOLhyphen"/>ners of our Profeſsions, and ſeveral Occupations, Trades and Vocations, to meet our Landlord, and cry <hi>Pecavimus</hi> with Halters inriching our Necks. O beloved, that in this our day of Adverſity, we were become, as once, honeſt Thimble<g ref="char:EOLhyphen"/>makers, Cutlers, Coblers, Beewers, Taylors, Carpenters, Wea<g ref="char:EOLhyphen"/>vers, Tinkers! then ſhould we take quiet ſleeps, then would not fears and dangers in the nights alarm us, and rowſe us from our pillows: Now we ſhall be ſubject unto continual fears, ever expecting and looking for a Meſſenger to be ſent unto us, to call us to an accompt, by our Landlords order: We have broken the Covenants in our Leaſes, and have ſuf<g ref="char:EOLhyphen"/>fered his Lands and Tenements to be run over with ruine; we have forfeited for non-payment of Rent, Service, Ho<g ref="char:EOLhyphen"/>mage and Fealty, againſt Law and Equity, and a ſtrong Co<g ref="char:EOLhyphen"/>venant in our Leaſes to that purpoſe: We have prohibited his entrance to view the ſtate of the reparations of his Meſ<g ref="char:EOLhyphen"/>ſuages, Lands and Tenements: We have perſecuted and kil<g ref="char:EOLhyphen"/>led his Servants and Friends, whom for that purpoſe he has ſo often ſent unto us: And what can ye name that we have not done? Finally, Brethren what accompt ſhall we give of our Stewardſhip? and which of us ſhall have that impudent bold<g ref="char:EOLhyphen"/>neſs as to look him in the face? Whether ſhall weſly for re<g ref="char:EOLhyphen"/>ſuge, or unto whom for protection? The fight of the King will cut us like a two-edged Sword; who ſhall abide his pre<g ref="char:EOLhyphen"/>ſence? We have digged a pit, and are fallen into it our ſelves: how ſhall we then eſcape? we have invented and prepared miſchief for others, and it is returned upon our own pates: Who ſhall pity us? who ſhall ſave us? who ſhall de<g ref="char:EOLhyphen"/>liver us?</p>
+            <l>
+               <pb n="8" facs="tcp:168827:5"/>
+Now thou our ſtrength hath left us all,</l>
+            <l>For people to deride our fall:</l>
+            <l>Our wicked actings great and ſmall,</l>
+            <l>Shall condemn us ith'Judgement-Hall.</l>
+            <l>Ambitions wings are melted,</l>
+            <l>Out Honour with dirt is pelted,</l>
+            <l>And we are left beſmelted,</l>
+            <l>'Cauſe we muſt needs be Belted.</l>
+            <l>Oh! that as firſt we did begin</l>
+            <l>With a Coblers Awl, and a Taylors Pin;</l>
+            <l>With Carpenters Rule, Brewers Sling,</l>
+            <l>Weavers Trade, Pedlers Pack,</l>
+            <l>Tinkers Budget, Millers Sack:</l>
+            <l>We could but now to work again,</l>
+            <l>All in our priſtine Trades amain:</l>
+            <l>O then how happy ſhould we be,</l>
+            <l>If of our Honour we were free,</l>
+            <l>And could but cry, <hi>God Trading ſend,</hi>
+            </l>
+            <l>
+               <hi>And grant us Peace unto <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </l>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
